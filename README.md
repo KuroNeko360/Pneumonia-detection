@@ -1,2 +1,5 @@
-Pneumonia is an infectious and fatal respiratory disease caused by bacteria, fungi, or a virus that infects human lung air sacs with a load full of fluid or pus.
-Chest x-rays are the common method used to diagnose pneumonia and it takes a medical expert to assess the result of the x-ray. The troublesome method of detecting pneumonia leads to loss of life due to improper diagnosis and treatment.With the emerging computing power, the development of an automatic pneumonia detection and disease treatment system is now possible, especially if the patient is in a remote area and medical services are limited.
+**Pneumonia Detection**
+
+Pneumonia is a severe respiratory disease caused by bacteria, fungi, or viruses, leading to fluid or pus accumulation in the lungs' air sacs. Chest X-rays are the primary diagnostic tool, but their interpretation requires medical expertise, which can delay diagnosis and treatment—especially in remote areas with limited healthcare access.
+
+This project leverages machine learning and computer vision to develop an automated pneumonia detection system using chest X-ray images. By integrating AI-driven diagnosis, the system aims to assist healthcare professionals and improve early detection, potentially saving lives
